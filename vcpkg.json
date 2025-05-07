@@ -2,5 +2,7 @@
     "name": "cpp-project-manifest",
     "version": "1.0",
     "dependencies": [
+        "glfw3",
+        "glad"
     ]
 }
